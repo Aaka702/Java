@@ -1,4 +1,4 @@
-package mypack;
+import mypack.AakashClass;
 
 public class AnotherClass {
 
